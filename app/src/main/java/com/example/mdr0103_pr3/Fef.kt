@@ -6,4 +6,8 @@ class Fef {
     fun fefMethod() {
         // void
     }
+
+    fun debugProgramFinished() {
+        // Fef debug finished
+    }
 }
