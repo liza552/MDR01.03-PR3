@@ -6,4 +6,8 @@ class Fef {
     fun fefMethod() {
         // void
     }
+
+    fun fefInteractionCreated() {
+        // Fef interaction created
+    }
 }
