@@ -9,11 +9,16 @@ class Fef {
         // void
     }
 
+
     fun fefInteractionCreated() {
         // Fef interaction created
     }
 
     fun debugProgramFirst() {
         // Fef debug program first
+    }
+
+    fun debugProgramFinished() {
+        // Fef debug finished
     }
 }
