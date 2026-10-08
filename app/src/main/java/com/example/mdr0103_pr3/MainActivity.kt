@@ -16,6 +16,7 @@ import com.example.mdr0103_pr3.ui.theme.MDR0103PR3Theme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // testing some things
         enableEdgeToEdge()
         setContent {
             MDR0103PR3Theme {
